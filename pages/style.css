@@ -1,0 +1,224 @@
+
+body {
+
+    font-family: 'Yusei Magic', sans-serif;
+    
+    }
+h1 {
+    font-size: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.forms-container
+{
+
+    margin: 1% 5%;
+    padding: 10% 2%;
+}
+
+.info-content{
+
+    background-color: blue;
+    margin: 1% 5%;
+    padding: 0 12%;
+    display: flex;
+    flex-flow: column;
+}
+.container-center {
+
+    margin: 1% 5%;
+    padding: 9% 2%;
+  
+}
+.cores{
+    color:purple;
+    background-color: white;
+    border-color: black;
+
+}
+.cores:hover {
+
+    background-color: rgba(133, 5, 133, 0.479);
+    border-color:black;
+    color: white ;
+    }
+.navbar-container {
+    margin: 0 3%;
+    border-bottom: solid 1px black;
+}
+.forms-cadastro-container{
+    margin: 2% 5%;
+  
+    padding: 5% 3%;
+}
+.forms-img{
+    text-align: center;
+    margin-left: 40%;
+}
+.center{
+    margin-left: 34%;
+}
+.forms-cadastro-container h2{
+    margin-bottom: 10%;
+
+}
+.login-container{
+    
+  
+    margin: 6% 30%;
+    padding:2%;
+
+}
+.btn-acessar{
+    width: 140px;
+    margin-left: 35%;
+   
+   
+}
+.criar-conta{
+    color:purple;
+   
+}
+.criar-conta:hover{
+    color:purple;
+   font-size: 18px;
+   text-decoration: none;
+
+}
+.conta-content{
+    border-top:solid 1px rgba(128, 128, 128, 0.8);
+    padding-top: 4%;
+}
+.container-card{
+    display: flex;
+    flex-flow:wrap;
+    justify-content:space-around;
+    margin-top: 5%;
+}
+.pergunta-container{
+
+    margin: 6% 30%;
+    padding:2%;
+
+    
+}
+.pergunta {
+   margin-top: 7%;
+   margin-bottom: 3%;
+   
+}
+.titulo-pergunta{
+    color:purple;
+}
+.pergunta-botao{
+    display:flex;
+    flex-flow: row;
+    justify-content: space-between;
+    margin-top: 3%;
+}
+.sobre-container{
+    margin: 1% 5%;
+    padding: 9% 2%;
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.info, .descricao, .info-empreed {
+    width: 40%;
+
+}
+.btn-inspiracao{
+    width: 200px;
+    height: 60px;
+    background-color:  rgba(128, 0, 128, 0.6);
+    border-color: black;
+    color:white;
+
+}
+.btn-inspiracao:hover{
+    background-color: rgba(128, 0, 128, 0.8);
+}
+.card-link{
+    font-size: 10px;
+}
+.empreed-container{
+    margin: 1% 5%;
+    padding: 9% 2%;
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.info-empreend h2{
+    width: 70%;
+    
+}
+.info-empreend h2, .info h2{
+    color: purple;
+}
+.parabe-container{
+    margin: 1% 35%;
+    padding: 3%;
+}
+.parabe-container img{
+    width: 100%;
+    height: 100%;
+}
+
+.perfil-container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    margin: 2% 7%;
+    padding: 3%;
+
+
+}
+.perfil-content img{
+    width: 200px;
+    height: 200px;
+
+}
+.perfil-content{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 7%;
+    
+}
+.img-match{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    border-bottom: solid 1px black;
+    padding:2% ;
+    align-items: center;
+    
+}
+
+.img-match img{
+    width: 100px;
+    height: 100px;
+    margin-right: 3%;
+
+}
+.feedback-range {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+} 
+.pergunta-content {
+
+    font-size: 32px;
+}
+.pergunta-content select {
+    height: 70px;
+}

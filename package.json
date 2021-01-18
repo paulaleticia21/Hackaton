@@ -1,0 +1,27 @@
+{
+  "name": "hackaccr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jannilsonn/hackaccr.git"
+  },
+  "keywords": [],
+  "author": "Janilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jannilsonn/hackaccr/issues"
+  },
+  "homepage": "https://github.com/Jannilsonn/hackaccr#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
